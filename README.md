@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/walczy/walczy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walczy&layout=compac" />
 </a>
-
+s
