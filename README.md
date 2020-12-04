@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/walczy_0x)
 <!--
 **walczy/walczy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
